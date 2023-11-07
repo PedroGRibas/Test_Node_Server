@@ -14,6 +14,7 @@ Para rodar os testes, rode o seguinte comando
 - Integração do EJS;
 
 ```bash
+  npm init
   npm run dev
 ```
 
