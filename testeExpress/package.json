@@ -1,0 +1,22 @@
+{
+  "name": "testeexpress",
+  "version": "1.0.0",
+  "description": "Início de Server utilizando Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "express",
+    "servidor"
+  ],
+  "author": "Pedro Ribas",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

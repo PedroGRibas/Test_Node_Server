@@ -1,0 +1,19 @@
+{
+  "name": "loginnode",
+  "version": "1.0.0",
+  "description": "Gerenciamento de login utilizando node e express js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "login"
+  ],
+  "author": "Pedro Ribas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

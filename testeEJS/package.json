@@ -1,0 +1,19 @@
+{
+  "name": "testenode",
+  "version": "1.0.0",
+  "description": "teste em node no if",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Pedro Ribas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
